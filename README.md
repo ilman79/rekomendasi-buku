@@ -1,8 +1,8 @@
-# Laporan Proyek Machine Learning - Nama Anda
+# Laporan Proyek Machine Learning - Ilman Gifari
 
 ## Project Overview
 
-Pada bagian ini, Kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
+Pada saat ini yaitu tahun 2023 dimana eranya sekarang adalah era digital, semua bisa diakses melalui internet dengan bantuan smartphone. Sebagian besar sudah dialihkan dari sistem yang biasanya datang ke toko secara offline menjadi online dengan genggaman handphone salah satunya adalah perpustakaan. Perpustakaan yang ada sejak dahulu adalah tersimpan didalam ruangan dengan berbagai macam buku tetapi sekarang buku tersebut bisa kita peroleh dan didapat dengan internet, dan dapat diakses secara gratis atau berbayar.
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Jelaskan mengapa proyek ini penting untuk diselesaikan.
